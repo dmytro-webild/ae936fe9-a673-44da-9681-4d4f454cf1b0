@@ -69,7 +69,7 @@ export default function LandingPage() {
       title="The advisor who over-delivers, every time"
       description="Clara is a rare combination of technical expertise and business intuition. She meets you where you are and takes you further than imagined."
       subdescription="Our commitment is integrity, patience with non-technical clients, and the rare promise to under-promise and over-deliver on every engagement."
-      imageSrc="http://img.b2bpic.net/free-photo/portrait-adult-businesswoman-smiling_23-2148452640.jpg"
+      imageSrc="https://img.b2bpic.net/premium-photo/happy-smiling-female-face-beauty-sensual-woman-portrait-beauty-portrait-young-cute-woman-gorgeous-girl-beautiful-portrait-blonde-model_265223-172678.jpg?id=398027877"
       mediaAnimation="slide-up"
       icon={ShieldCheck}
     />
@@ -85,7 +85,7 @@ export default function LandingPage() {
         { title: "Custom Tool Development", description: "Chatbots and internal assistants built for you.", imageSrc: "http://img.b2bpic.net/free-photo/3d-plexus-design-with-connecting-lines-dots-network-communications_1048-12200.jpg" },
         { title: "CRM & LMS Platforms", description: "From-the-ground-up system design.", imageSrc: "http://img.b2bpic.net/free-photo/3d-digital-landscape-modern-technology-background_1048-10465.jpg" },
         { title: "Discovery & Audit", description: "Identify hidden AI use cases.", imageSrc: "http://img.b2bpic.net/free-photo/abstract-low-poly-background-with-connecting-dots-lines_1048-5910.jpg" },
-        { title: "Ongoing Partnership", description: "Retained advisor keeping you ahead.", imageSrc: "http://img.b2bpic.net/free-photo/studio-portrait-blond-female-dressed-white-shirt-red-eyeglasses_613910-3569.jpg" }
+        { title: "Ongoing Partnership", description: "Retained advisor keeping you ahead.", imageSrc: "https://img.b2bpic.net/premium-photo/happy-smiling-female-face-beauty-sensual-woman-portrait-beauty-portrait-young-cute-woman-gorgeous-girl-beautiful-portrait-blonde-model_265223-172678.jpg?id=398027877" }
       ]}
       title="Services built for the new intelligence economy"
       description="Comprehensive consulting designed to accelerate your growth."
@@ -100,7 +100,7 @@ export default function LandingPage() {
       metrics={[
         { id: "m1", value: "5.0", title: "Google Rating", description: "Average client satisfaction", imageSrc: "http://img.b2bpic.net/free-photo/modern-minimalist-office_23-2151780713.jpg" },
         { id: "m2", value: "50+", title: "Clients Served", description: "Across diverse industries", imageSrc: "http://img.b2bpic.net/free-photo/3d-abstract-background-with-flowing-hexagonal-grid-design_1048-11285.jpg" },
-        { id: "m3", value: "3+", title: "Years Leading", description: "Innovation & Strategy", imageSrc: "http://img.b2bpic.net/free-photo/front-view-beautiful-modern-woman_23-2148415841.jpg" }
+        { id: "m3", value: "3+", title: "Years Leading", description: "Innovation & Strategy", imageSrc: "https://img.b2bpic.net/premium-photo/confident-man-with-beard-standing-nature_1120887-15623.jpg?id=402868519" }
       ]}
       title="Our Impact"
       description="Proven results for ambitious businesses."
@@ -115,8 +115,8 @@ export default function LandingPage() {
       useInvertedBackground={false}
       testimonials={[
         { id: "t1", name: "Rob Decker", role: "Leader", company: "Business", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/closeup-serious-business-leader-sitting_1262-4831.jpg" },
-        { id: "t2", name: "Hillary Walsh", role: "Owner", company: "Business", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/portrait-jolly-media-star-telling-viewers-facts-about-himself-close-up_482257-116639.jpg" },
-        { id: "t3", name: "Global Client", role: "Admin", company: "Org", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/portrait-smiling-woman-black-shirt-posing-white-background-high-quality-photo_114579-60993.jpg" },
+        { id: "t2", name: "Hillary Walsh", role: "Owner", company: "Business", rating: 5, imageSrc: "https://img.b2bpic.net/premium-photo/confident-young-man-autumn-park-setting-portrait-smiling-male-with-crossed-arms_1191236-3643.jpg?id=357895396" },
+        { id: "t3", name: "Global Client", role: "Admin", company: "Org", rating: 5, imageSrc: "https://img.b2bpic.net/free-photo/successful-business-woman-with-candid-smile-crossed-arms-stylish-suit-beige-wall_273443-1787.jpg?id=9419357" },
         { id: "t4", name: "Kristen Scheidly", role: "Owner", company: "Biz", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/confident-young-businesswoman-with-folded-arms_1262-1775.jpg" },
         { id: "t5", name: "Rich Daniel", role: "Director", company: "Foundation", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/portrait-confident-business-woman-with-executive-job-working-with-management-marketing-statistics-computer-office-worker-analyzing-research-charts-data-reports_482257-41126.jpg" }
       ]}
