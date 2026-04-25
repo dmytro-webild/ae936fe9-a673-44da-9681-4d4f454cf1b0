@@ -157,7 +157,7 @@ export default function LandingPage() {
       background={{ variant: "sparkles-gradient" }}
       title="Ready to put AI to work?"
       description="Book a discovery call. No jargon, just results."
-      imageSrc="http://img.b2bpic.net/free-photo/modern-hotel-lobby-with-leather-sofa-chairs-lamp-round-tables_1262-12373.jpg"
+      imageSrc="https://img.b2bpic.net/free-photo/businessman-s-hand-light-bulb_1232-160.jpg?id=970012"
       tag="Let's Talk"
       mediaAnimation="slide-up"
     />
