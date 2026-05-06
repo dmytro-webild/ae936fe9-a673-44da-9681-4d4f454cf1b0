@@ -65,9 +65,9 @@ export default function LandingPage() {
   <div id="about" data-section="about">
       <TestimonialAboutCard
       useInvertedBackground={true}
-      tag="About Clara"
+      tag="About Us"
       title="The advisor who over-delivers, every time"
-      description="Clara is a rare combination of technical expertise and business intuition. She meets you where you are and takes you further than imagined."
+      description="Our advisors are a rare combination of technical expertise and business intuition. They meet you where you are and takes you further than imagined."
       subdescription="Our commitment is integrity, patience with non-technical clients, and the rare promise to under-promise and over-deliver on every engagement."
       imageSrc="https://img.b2bpic.net/premium-photo/happy-smiling-female-face-beauty-sensual-woman-portrait-beauty-portrait-young-cute-woman-gorgeous-girl-beautiful-portrait-blonde-model_265223-172678.jpg?id=398027877"
       mediaAnimation="slide-up"
